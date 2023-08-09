@@ -16,8 +16,7 @@ This repository contains a simple LSTM-based model for predicting COVID-19 cases
 - Pandas
 - Matplotlib
 - Seaborn
-- Scikit-learn
-- h5py
+
 
 ## Contributing
 Contributions are welcome! Feel free to open issues and pull requests.
