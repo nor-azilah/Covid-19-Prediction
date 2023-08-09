@@ -1,7 +1,7 @@
 # COVID-19 Cases Prediction
 
 This repository contains a simple LSTM-based model for predicting COVID-19 cases. The goal is to achieve accurate predictions while meeting specific criteria.
-- [Link to data](https://github.com/MoH-Malaysia/covid19-public)
+- [Link to dataset](https://github.com/MoH-Malaysia/covid19-public)
   
 ## Model architecture
 
